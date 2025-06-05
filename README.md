@@ -8,6 +8,15 @@ Practices of creating basic 3d geometry, display it and use shaders to show deep
 - Simulte movement of objects
 - Simulate lighting of object by shaders
 
+### Samble shapes + phong shader
+![flat img](resources/images/man_flat.png)
+
+### More complex shapes + custom shader
+![final img](resources/images/man_finnal.png)
+
+### Animation
+![animation gif](resources/images/man_animated.gif)
+
 ## Configuration
 (Linux command line)
 - pip install glcontext==2.5.0
